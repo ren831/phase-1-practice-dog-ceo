@@ -12,15 +12,15 @@ breeds from API's and render them to the DOM. You will also add some click
 behavior to the list elements and implement a filter.
 
 > **Note**: this lab does not contain tests. You will be working from the
-requirements described below and verifying that your code is working correctly
-in the browser.
+> requirements described below and verifying that your code is working correctly
+> in the browser.
 
 ## Challenge 1
 
 This repository includes an `index.html` file that loads an `index.js` file.
 
 ```js
-const imgUrl = "https://dog.ceo/api/breeds/image/random/4"
+const imgUrl = "https://dog.ceo/api/breeds/image/random/4";
 ```
 
 Add JavaScript that:
@@ -34,7 +34,7 @@ Add JavaScript that:
 ## Challenge 2
 
 ```js
-const breedUrl = 'https://dog.ceo/api/breeds/list/all'
+const breedUrl =
 ```
 
 After the first challenge is completed, add JavaScript that:
